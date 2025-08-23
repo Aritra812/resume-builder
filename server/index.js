@@ -60,6 +60,6 @@ app.listen(process.env.PORT, () => {
   // console.log(`Server is working on http://localhost:${process.env.PORT}`);
 });
 
-// mongoDB();
-//mongoose.connect(process.env.MONGO_URL).then(res=>console.log('DATABASE CONNECTED'))
+mongoDB();
+mongoose.connect(process.env.MONGO_URL).then(res=>console.log('DATABASE CONNECTED'))
 //.catch(err=>console.log('somthong kalajadu happen'))  //connect to database
