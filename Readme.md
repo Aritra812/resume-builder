@@ -8,7 +8,7 @@ Users can enter their personal, educational, and professional details and view a
 ## 🔗 Live Demo
 
 👉 https://resume-builder-rho-one.vercel.app/  
-*(Update if needed)*
+
 
 ---
 
